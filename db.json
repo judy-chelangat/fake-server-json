@@ -12,7 +12,11 @@
       "postedAt": "1d ago",
       "contract": "Full Time",
       "location": "USA Only",
-      "languages": [ "JavaScript" , "React"],
+      "link":"https://boards.greenhouse.io/ingenious/jobs/4002233005?utm_source=trulyremote.co",
+      "languages": [
+        "JavaScript",
+        "React"
+      ],
       "tools": []
     },
     {
@@ -27,8 +31,13 @@
       "postedAt": "1d ago",
       "contract": "Part Time",
       "location": "Remote",
-      "languages": ["Python"],
-      "tools": ["React"]
+      "link":"https://jobs.lever.co/percona/272d08cf-c22d-478d-9532-53a3a15e86ab?utm_source=trulyremote.co",
+      "languages": [
+        "Python"
+      ],
+      "tools": [
+        "React"
+      ]
     },
     {
       "id": 3,
@@ -42,8 +51,14 @@
       "postedAt": "2d ago",
       "contract": "Part Time",
       "location": "USA Only",
-      "languages": ["JavaScript"],
-      "tools": ["React", "Sass"]
+      "link":"https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495",
+      "languages": [
+        "JavaScript"
+      ],
+      "tools": [
+        "React",
+        "Sass"
+      ]
     },
     {
       "id": 4,
@@ -57,7 +72,11 @@
       "postedAt": "5d ago",
       "contract": "Contract",
       "location": "USA Only",
-      "languages": ["CSS", "JavaScript"],
+      "link":"https://weworkremotely.com/remote-jobs/yoko-co-full-stack-web-developer-wordpress-more",
+      "languages": [
+        "CSS",
+        "JavaScript"
+      ],
       "tools": []
     },
     {
@@ -72,8 +91,14 @@
       "postedAt": "1w ago",
       "contract": "Full Time",
       "location": "Worldwide",
-      "languages": ["JavaScript"],
-      "tools": ["Ruby", "Sass"]
+      "link":"https://weworkremotely.com/remote-jobs/10ex-dev-software-developer-elixir",
+      "languages": [
+        "JavaScript"
+      ],
+      "tools": [
+        "Ruby",
+        "Sass"
+      ]
     },
     {
       "id": 6,
@@ -87,8 +112,13 @@
       "postedAt": "2w ago",
       "contract": "Full Time",
       "location": "UK Only",
-      "languages": ["Ruby"],
-      "tools": ["RoR"]
+      "link":"https://boards.greenhouse.io/0x/jobs/4058947002?utm_source=trulyremote.co",
+      "languages": [
+        "Ruby"
+      ],
+      "tools": [
+        "RoR"
+      ]
     },
     {
       "id": 7,
@@ -102,8 +132,14 @@
       "postedAt": "2w ago",
       "contract": "Full Time",
       "location": "Worldwide",
-      "languages": ["HTML", "JavaScript"],
-      "tools": ["Sass"]
+      "link":"https://www.indeed.com/q-junior-developer-jobs.html?vjk=9e76e485b48fe6d0",
+      "languages": [
+        "HTML",
+        "JavaScript"
+      ],
+      "tools": [
+        "Sass"
+      ]
     },
     {
       "id": 8,
@@ -111,14 +147,20 @@
       "logo": "./images/insure.svg",
       "new": false,
       "featured": false,
-      "position": "Junior Frontend Developer",
-      "role": "Frontend",
+      "position": "DevOps Engineer",
+      "role": "DevOps",
       "level": "Junior",
       "postedAt": "2w ago",
       "contract": "Full Time",
       "location": "USA Only",
-      "languages": ["JavaScript"],
-      "tools": ["Vue", "Sass"]
+      "link":"https://amazeeio.bamboohr.com/careers/87?utm_source=trulyremote.co",
+      "languages": [
+        "JavaScript"
+      ],
+      "tools": [
+        "Vue",
+        "Sass"
+      ]
     },
     {
       "id": 9,
@@ -132,8 +174,14 @@
       "postedAt": "3w ago",
       "contract": "Full Time",
       "location": "Worldwide",
-      "languages": ["JavaScript", "Python"],
-      "tools": ["Django"]
+      "link":"https://amazeeio.bamboohr.com/careers/87?utm_source=trulyremote.co",
+      "languages": [
+        "JavaScript",
+        "Python"
+      ],
+      "tools": [
+        "Django"
+      ]
     },
     {
       "id": 10,
@@ -147,8 +195,14 @@
       "postedAt": "1mo ago",
       "contract": "Part Time",
       "location": "Worldwide",
-      "languages": ["JavaScript"],
-      "tools": ["React", "Sass"]
+      "link":"https://www.indeed.com/q-junior-developer-jobs.html?vjk=9e76e485b48fe6d0",
+      "languages": [
+        "JavaScript"
+      ],
+      "tools": [
+        "React",
+        "Sass"
+      ]
     },
     {
       "id": 11,
@@ -162,8 +216,15 @@
       "postedAt": "2d ago",
       "contract": "Full Time",
       "location": "Remote",
-      "languages": ["JavaScript", "Python"],
-      "tools": ["React", "Django"]
+      "link":"https://www.indeed.com/q-junior-developer-jobs.html?vjk=9e76e485b48fe6d0",
+      "languages": [
+        "JavaScript",
+        "Python"
+      ],
+      "tools": [
+        "React",
+        "Django"
+      ]
     },
     {
       "id": 12,
@@ -177,8 +238,15 @@
       "postedAt": "3d ago",
       "contract": "Full Time",
       "location": "Remote",
-      "languages": ["HTML", "CSS", "JavaScript"],
-      "tools": ["React"]
+      "link":"https://www.indeed.com/q-junior-developer-jobs.html?vjk=9e76e485b48fe6d0",
+      "languages": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "tools": [
+        "React"
+      ]
     },
     {
       "id": 13,
@@ -192,8 +260,15 @@
       "postedAt": "4d ago",
       "contract": "Internship",
       "location": "Worldwide",
-      "languages": ["JavaScript", "Python"],
-      "tools": ["React", "Node.js"]
+      "link":"https://www.indeed.com/q-junior-developer-jobs.html?vjk=9e76e485b48fe6d0",
+      "languages": [
+        "JavaScript",
+        "Python"
+      ],
+      "tools": [
+        "React",
+        "Node.js"
+      ]
     },
     {
       "id": 14,
@@ -207,8 +282,14 @@
       "postedAt": "5d ago",
       "contract": "Internship",
       "location": "Worldwide",
-      "languages": ["Java", "C++"],
-      "tools": ["Spring"]
+      "link":"https://www.indeed.com/q-junior-developer-jobs.html?vjk=9e76e485b48fe6d0",
+      "languages": [
+        "Java",
+        "C++"
+      ],
+      "tools": [
+        "Spring"
+      ]
     },
     {
       "id": 15,
@@ -222,8 +303,15 @@
       "postedAt": "1w ago",
       "contract": "Internship",
       "location": "USA Only",
-      "languages": ["JavaScript", "Python"],
-      "tools": ["React", "Django"]
+      "link":"https://www.indeed.com/q-junior-developer-jobs.html?vjk=9e76e485b48fe6d0",
+      "languages": [
+        "JavaScript",
+        "Python"
+      ],
+      "tools": [
+        "React",
+        "Django"
+      ]
     },
     {
       "id": 16,
@@ -237,8 +325,13 @@
       "postedAt": "2w ago",
       "contract": "Full Time",
       "location": "USA Only",
-      "languages": ["Java"],
-      "tools": ["Spring Boot"]
+      "link":"https://www.glassdoor.com/Job/junior-backend-developer-jobs-SRCH_KO0,24.htm",
+      "languages": [
+        "Java"
+      ],
+      "tools": [
+        "Spring Boot"
+      ]
     },
     {
       "id": 17,
@@ -252,8 +345,15 @@
       "postedAt": "3w ago",
       "contract": "Full Time",
       "location": "UK Only",
-      "languages": ["JavaScript", "Ruby"],
-      "tools": ["React", "Ruby on Rails"]
+      "link":"https://www.glassdoor.com/Job/junior-backend-developer-jobs-SRCH_KO0,24.htm",
+      "languages": [
+        "JavaScript",
+        "Ruby"
+      ],
+      "tools": [
+        "React",
+        "Ruby on Rails"
+      ]
     },
     {
       "id": 18,
@@ -267,8 +367,15 @@
       "postedAt": "1mo ago",
       "contract": "Full Time",
       "location": "Remote",
-      "languages": ["Python", "SQL"],
-      "tools": ["Apache Spark", "Kafka"]
+      "link":"https://boards.greenhouse.io/citizengo/jobs/4897397004?utm_source=trulyremote.co",
+      "languages": [
+        "Python",
+        "SQL"
+      ],
+      "tools": [
+        "Apache Spark",
+        "Kafka"
+      ]
     },
     {
       "id": 19,
@@ -283,6 +390,7 @@
       "contract": "Full Time",
       "location": "USA Only",
       "languages": [],
+      "link":"https://boards.greenhouse.io/mural/jobs/5659059003?utm_source=trulyremote.co",
       "tools": []
     },
     {
@@ -297,8 +405,45 @@
       "postedAt": "1mo ago",
       "contract": "Full Time",
       "location": "Worldwide",
+      "link":"https://boards.greenhouse.io/mural/jobs/5659059003?utm_source=trulyremote.co",
       "languages": [],
       "tools": []
+    },
+    {
+      "company": "Photosnap",
+      "logo": "./images/photosnap.svg",
+      "new": true,
+      "featured": true,
+      "position": "junior frontend",
+      "role": "Frontend",
+      "level": "Senior",
+      "postedAt": "Now",
+      "contract": "fulltime",
+      "location": "Worldwide",
+      "link":"https://boards.greenhouse.io/ingenious/jobs/4002233005?utm_source=trulyremote.co",
+      "languages": [
+        "react,html,css"
+      ],
+      "tools": [],
+      "id": 21
+    },
+    {
+      "company": "Photosnap",
+      "logo": "./images/photosnap.svg",
+      "new": true,
+      "featured": true,
+      "position": "junior frontend",
+      "role": "Frontend",
+      "level": "Senior",
+      "postedAt": "Now",
+      "contract": "Part time",
+      "location": "Germany",
+      "link":"https://boards.greenhouse.io/ingenious/jobs/4002233005?utm_source=trulyremote.co",
+      "languages": [
+        "Javascript,React"
+      ],
+      "tools": [],
+      "id": 22
     }
   ]
 }
