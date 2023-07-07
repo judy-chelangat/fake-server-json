@@ -1,7 +1,7 @@
 {
   "jobs": [
     {
-      "id":1,
+      "id": 1,
       "company": "Photosnap",
       "logo": "./images/photosnap.svg",
       "new": true,
